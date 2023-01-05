@@ -1,0 +1,3 @@
+/home/timicasto/Projects/Software/AudioFFT/cmake-build-debug/CMakeFiles/AudioFFT.dir
+/home/timicasto/Projects/Software/AudioFFT/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timicasto/Projects/Software/AudioFFT/cmake-build-debug/CMakeFiles/rebuild_cache.dir

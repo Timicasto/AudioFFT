@@ -1,0 +1,4 @@
+/opt/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/clion/bin/ninja/linux/ninja -DCMAKE_C_COMPILER=/usr/bin/clang -DCMAKE_CXX_COMPILER=/usr/bin/clang++ -G Ninja -S /home/timicasto/Projects/Software/AudioFFT -B /home/timicasto/Projects/Software/AudioFFT/cmake-build-debug-clang
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/timicasto/Projects/Software/AudioFFT/cmake-build-debug-clang
