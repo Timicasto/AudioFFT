@@ -18,6 +18,20 @@
             </LocalCompilerSettings>
           </value>
         </entry>
+        <entry>
+          <key>
+            <LocalCompilerPath>
+              <option name="path" value="/usr/bin/clang++" />
+            </LocalCompilerPath>
+          </key>
+          <value>
+            <LocalCompilerSettings>
+              <option name="name" value="Clang" />
+              <option name="version" value="15.0.7" />
+              <option name="target" value="x86_64" />
+            </LocalCompilerSettings>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="initialNoticeShown" value="true" />
